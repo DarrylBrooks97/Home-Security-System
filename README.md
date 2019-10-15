@@ -1,1 +1,1 @@
-# Home-Security-System
+Using an Arduino Mega 2560 I have designed a Home Security system that incorporates a Passive Infrared (PIR) sensor. Once the PIR sensor senses motion of a heated source it triggers the alarm to sound. As every alarm system, to turn the alarm off the individual needs to enter their unique 4-digit passcode. If entered incorrectly the system will ask for the passcode repeatedly until the correct passcode is entered 
